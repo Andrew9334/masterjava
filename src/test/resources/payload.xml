@@ -18,6 +18,6 @@
     <Cities>
         <City id="spb">Санкт-Петербург</City>
         <City id="kiv">Киев</City>
-        <City id="mnsk">Минск</City>
+        <City id="minsk">Минск</City>
     </Cities>
 </Payload>
